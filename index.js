@@ -106,6 +106,5 @@ function placeOrder(cardNumber) {
   var str = 'Your total cost is $'+ total()+', which will be charged to the card '+ cardNumber +'.'
   console.log(str);
   cart=[];
-  
   // write your code here
 }
